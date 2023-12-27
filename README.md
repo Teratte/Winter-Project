@@ -1,6 +1,6 @@
 # Winter-Project
 
-#개발
+개발
 기본적인 개발 브랜치 전략은 gitflow 관례를 따릅니다.
 
 기능 추가 및 수정은 feature/aaa형식으로 develop으로 pull request를 하는 방식을 사용합니다. maintainer가 코드 리뷰를 완료한 후 develop으로 merge합니다.
@@ -17,5 +17,7 @@ conflict가 나지 않은 코드로 pull request 해주세요. 다른 개발자�
 NEW: 신규 기능
 CHG: 코드 변경
 FIX: 문제 수정
+
 개발 환경
-Unity 2022.3.x (LTS) 현 기준 프로젝트 개발 버전은 2022.3.10f1 입니다.
+
+현 기준 프로젝트 개발 버전은 2022.3.10f1 입니다.
