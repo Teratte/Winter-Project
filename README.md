@@ -13,6 +13,8 @@ conflict가 나지 않은 코드로 pull request 해주세요. 다른 개발자�
 
 모든 소스 파일은 Unix Line Ending(LF)를 사용합니다. Windows에서는 자동으로 LF 커밋하도록 git 설정에 `autocrlf = true` 로 세팅하세요.
 
+123
+
 ### 커밋 로그
 `<타입>: <메시지>` 형식을 사용합니다.
 ```
